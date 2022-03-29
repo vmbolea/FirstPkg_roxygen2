@@ -8,6 +8,8 @@
 #'
 #' @return numeric vector
 #'
+#' @export converter
+#'
 #' @examples
 #' x<-(300:310)
 #' converter(x,"sqkm")
